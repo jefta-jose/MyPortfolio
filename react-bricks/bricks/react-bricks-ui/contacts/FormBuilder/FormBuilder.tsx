@@ -120,7 +120,6 @@ FormBuilder.schema = {
   repeaterItems: [
     {
       name: 'form-elements',
-      positionLabel: 'Form elements',
       items: [
         { type: blockNames.FormInput },
         { type: blockNames.FormTextArea },
