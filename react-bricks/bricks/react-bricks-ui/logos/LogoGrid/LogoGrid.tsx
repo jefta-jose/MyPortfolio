@@ -114,7 +114,7 @@ LogoGrid.schema = {
       name: 'logos',
       itemType: blockNames.LogoGridItem,
       itemLabel: 'Logo',
-      min: 5,
+      min: 1,
       max: 25,
     },
     {
